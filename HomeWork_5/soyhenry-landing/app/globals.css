@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Versión ultra simplificada sin variables CSS personalizadas ni layers adicionales */
+body {
+  color: black;
+  background: white;
+}
